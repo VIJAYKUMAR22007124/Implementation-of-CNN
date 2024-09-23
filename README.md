@@ -10,6 +10,9 @@ The goal of this project is to develop a Convolutional Neural Network (CNN) to c
 
 The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0-9), totaling 60,000 training images and 10,000 test images. The challenge is to train a deep learning model that accurately classifies the images into the corresponding digits.
 
+![image](https://github.com/user-attachments/assets/a93e4403-1c26-45c9-95fc-14d94784f56d)
+
+
 ## Neural Network Model
 
 ![image](https://github.com/user-attachments/assets/5d339047-7d25-4655-b3a4-c1fb7bde2529)
