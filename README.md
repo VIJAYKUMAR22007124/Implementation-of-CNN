@@ -12,7 +12,7 @@ The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0-9)
 
 ## Neural Network Model
 
-![image](https://github.com/user-attachments/assets/40656727-1940-494f-8d90-bf685c7a0d71)
+![image](https://github.com/user-attachments/assets/5d339047-7d25-4655-b3a4-c1fb7bde2529)
 
 
 ## DESIGN STEPS
@@ -87,7 +87,7 @@ def reshape_and_normalize(images):
 
 # Apply the function
 training_images = reshape_and_normalize(training_images)
-
+print('Name: B VIJAY KUMAR           RegisterNumber: 212222230173      \n')
 print(f"Maximum pixel value after normalization: {np.max(training_images)}\n")
 print(f"Shape of training set after reshaping: {training_images.shape}\n")
 print(f"Shape of one image after reshaping: {training_images[0].shape}")
